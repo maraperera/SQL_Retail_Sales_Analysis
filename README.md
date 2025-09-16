@@ -1,2 +1,2 @@
-# SQL_Retail_Sales_Analysis
+# SQL Retail Sales Analysis
 This project is an end-to-end analysis of retail sales data using SQL to answer key business questions. The process included setting up a database, performing exploratory data analysis (EDA), and writing complex queries to extract actionable insights on sales performance and customer trends. It demonstrates core data analysis skills in data cleaning, aggregation, and analytical querying within a SQL environment.
