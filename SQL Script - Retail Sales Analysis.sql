@@ -134,7 +134,7 @@ SELECT
 FROM retail_sales
 GROUP BY category
 
--- 10.  Create each shift and number of orders (Morning <12, Afternoon Between 12 & 17, Evening >17)
+-- 10. Create each shift and number of orders (Morning <12, Afternoon Between 12 & 17, Evening >17)
 
 WITH hourly_sale
 AS
