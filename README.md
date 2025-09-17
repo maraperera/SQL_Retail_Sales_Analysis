@@ -9,12 +9,41 @@ Following this exploration, a query was run to check for data integrity by ident
 # Data Analysis & Findings
 
 ### 01. Sales made on '2022-11-05
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/01.jpg)
+
 ### 02. Retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/02.jpg)
+
 ### 03. Calculate the total sales (total_sale) for each category
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/03.jpg)
+
 ### 04. Find the average age of customers who purchased items from the 'Beauty' category
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/04.jpg)
+
 ### 05. Find all transactions where the total_sale is greater than 1000
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/05.jpg)
+
 ### 06. Find the total number of transactions (transaction_id) made by each gender in each category
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/06.jpg)
+
 ### 07. Calculate the average sale for each month. Find out best selling month in each year
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/07.jpg)
+
 ### 08. Find the top 5 customers based on the highest total sales
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/08.jpg)
+
 ### 09. Find the number of unique customers who purchased items from each category
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/09.jpg)
+
 ### 10. Create each shift and number of orders (Morning <12, Afternoon Between 12 & 17, Evening >17)
+
+![image alt](https://github.com/maraperera/SQL_Retail_Sales_Analysis/blob/13131d5fd3f045a532661a8011784b37435da0a5/results/10.jpg)
