@@ -8,6 +8,18 @@ Following this exploration, a query was run to check for data integrity by ident
 
 # Data Analysis & Findings
 
+With the data cleaned, this section uses SQL to answer specific business questions and uncover key insights. The analysis covers sales performance, customer behavior, and product trends through a series of targeted queries.
+
+The investigation delves into several key areas:
+
+Sales Performance: Queries calculate the total sales for each product category and identify high-value transactions. A more advanced query using a window function (RANK()) was built to determine the month with the highest average sales for each year.
+
+Customer Behavior: The analysis identifies the top 5 customers by total spending and calculates the number of unique customers for each category. It also explores purchasing patterns across different times of the day (Morning, Afternoon, Evening), which was achieved using a Common Table Expression (CTE) and a CASE statement.
+
+Product & Demographics: Queries were used to explore demographic insights, such as the average age of customers for the 'Beauty' category and a breakdown of transactions by gender within each product line.
+
+These queries showcase a range of SQL techniques—from basic aggregations (SUM, AVG, COUNT) to more complex operations like CTEs and window functions—to extract meaningful business intelligence from raw data.
+
 ### 01. Sales made on '2022-11-05
 
 ```sql
